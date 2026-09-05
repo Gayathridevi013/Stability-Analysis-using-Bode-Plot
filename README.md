@@ -17,13 +17,16 @@ Computer with MATLAB software
 	Also determine the stability.
 
 ## Program: 
+<img width="328" height="331" alt="image" src="https://github.com/user-attachments/assets/9a22e8f0-3e88-4424-84c3-0f351d07757d" />
 
 ## Output:
+<img width="846" height="638" alt="image" src="https://github.com/user-attachments/assets/03517163-0b99-46a1-bb24-0b44a2cdb0fc" />
+<img width="191" height="684" alt="image" src="https://github.com/user-attachments/assets/d73293ec-5e5a-4c9a-8d29-3db99bf7b7e7" />
 
 ## Result:
 Thus the bode plot for the given transfer function was drawn and verified using MATLAB. <br>
-Gain margin = <br>
-Phase Margin = <br>
-Gain crossover frequency = <br>
-Phase crossover frequency = <br>
-The system is  ------------
+Gain margin = 1.25<br>
+Phase Margin = 5.2<br>
+Gain crossover frequency = 1 rad/s<br>
+Phase crossover frequency = 5 rad/s<br>
+The system is  Stable
